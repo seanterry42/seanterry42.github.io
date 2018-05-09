@@ -25,4 +25,4 @@ Create your VPC in the following manner:
   10. For the name of the subnet, I recommend prefixing the availability zone with whether the subnet is public or private. For the first subnet, this is public.
 
 Here are the settings I am using in my demo:
-![VPC Settings](vpc-settings.png)
+![VPC Settings](vpc-settings.PNG)
